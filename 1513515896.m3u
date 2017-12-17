@@ -1,0 +1,51 @@
+#EXTM3U url-tvg="http://xtream-editor.com/en/load/gz/6C3919A634C476A93A3079DFF51E057C/newguide.gz" catchup="xc"
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1 HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg" group-title="Empty",LA 1 HD
+http://46.35.123.162:8000/play/LA1HD
+#EXTINF:-1 tvg-id="" tvg-name="[005] Telecinco HD" tvg-logo="" group-title="Empty",[005] Telecinco HD
+http://46.35.123.162:8000/play/TELECINCOHD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar DEP 1 HD" tvg-logo="" group-title="Empty",Movistar DEP 1 HD
+http://46.35.123.162:8000/play/MovistarDEP1HD
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATVBAR1" tvg-logo="" group-title="Empty",LALIGATVBAR1
+http://46.35.123.162:8000/play/LALIGATVBAR1
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="Empty",NAT GEO HD
+http://46.35.123.162:8000/play/NATGEOHD
+#EXTINF:-1 tvg-id="" tvg-name="TOROS TV HD" tvg-logo="" group-title="Empty",TOROS TV HD
+http://46.35.123.162:8000/play/TOROSTVHD
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT1 HD" tvg-logo="" group-title="Empty",EUROSPORT1 HD
+http://46.35.123.162:8000/play/EUROSPORT1HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Piartidazo HD" tvg-logo="" group-title="Empty",Movistar Piartidazo HD
+http://46.35.123.162:8000/play/MovistarPartidazoHD
+#EXTINF:-1 tvg-id="" tvg-name="MULTIFUT. 4" tvg-logo="" group-title="Empty",MULTIFUT. 4
+http://46.35.123.162:8000/play/MULTIFUT4
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Partidazo SD" tvg-logo="" group-title="Empty",Movistar Partidazo SD
+http://46.35.123.162:8000/play/MovistarPartidazoSD
+#EXTINF:-1 tvg-id="" tvg-name="BEINLALIGA1" tvg-logo="" group-title="Empty",BEINLALIGA1
+http://46.35.123.162:8000/play/BEINLALIGA1
+#EXTINF:-1 tvg-id="" tvg-name="BEINLALIGA2" tvg-logo="" group-title="Empty",BEINLALIGA2
+http://46.35.123.162:8000/play/BEINLALIGA2
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 6" tvg-logo="" group-title="Empty",BEIN MAX 6
+http://46.35.123.162:8000/play/BEINMAX6
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="Empty",AMC HD
+http://46.35.123.162:8000/play/AMCHD
+#EXTINF:-1 tvg-id="" tvg-name="Movistra FUTBOL HD" tvg-logo="" group-title="Empty",Movistra FUTBOL HD
+http://46.35.123.162:8000/play/MovistraFUTBOLHD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar DEP 2 HD" tvg-logo="" group-title="Empty",Movistar DEP 2 HD
+http://46.35.123.162:8000/play/MovistarDEP2HD
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="Empty",NICK JR
+http://46.35.123.162:8000/play/NICKJR
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="Empty",HOLLYWOOD HD
+http://46.35.123.162:8000/play/HOLLYWOODHD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 1" tvg-logo="" group-title="Empty",BEIN MAX 1
+http://46.35.123.162:8000/play/BEINMAX1
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LALIGA" tvg-logo="" group-title="Empty",BEIN LALIGA
+http://46.35.123.162:8000/play/BEINLALIGA
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="" group-title="Empty",CUATRO HD
+http://46.35.123.162:8000/play/CUATROHD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar GOLF HD" tvg-logo="" group-title="Empty",Movistar GOLF HD
+http://46.35.123.162:8000/play/MovistarGOLFHD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar COMEDIA HD" tvg-logo="" group-title="Empty",Movistar COMEDIA HD
+http://46.35.123.162:8000/play/MovistarCOMEDIAHD
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="" group-title="Empty",MEZZO
+http://46.35.123.162:8000/play/MEZZO
+#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="Empty",#0 HD
+http://46.35.123.162:8000/play/#0HD
