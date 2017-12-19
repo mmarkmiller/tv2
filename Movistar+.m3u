@@ -24,13 +24,45 @@ http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18707.ts
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18704.ts
 #EXTINF:-1,Movistar Xtra
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/20949.ts
+#EXTINF:-1,Fox
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18713.ts
+#EXTINF:-1,AXN
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/20945.ts
+#EXTINF:-1,TNT
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22616.ts
+#EXTINF:-1,Comedy Central
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/20951.ts
+#EXTINF:-1,Calle 13
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/20946.ts
+#EXTINF:-1,COSMO
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18712.ts
+#EXTINF:-1,AMC
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18709.ts
+#EXTINF:-1,Fox Life
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/20950.ts
+#EXTINF:-1,AXN White
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/20948.ts
+#EXTINF:-1,SYFY
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/20947.ts
+#EXTINF:-1,Non Stop People
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13935.ts
+#EXTINF:-1,MTV España
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13667.ts
+#EXTINF:-1,FDF
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/404.ts
+#EXTINF:-1,Neox
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7194.ts
+#EXTINF:-1,Energy
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/405.ts
+#EXTINF:-1,M. eSports
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/426.ts
 #EXTINF:-1,Movistar Acción
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18703.ts
 #EXTINF:-1,Movistar Comedia
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7211.ts
 #EXTINF:-1,Movistar Dcine
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18705.ts
-#EXTINF:-1,Movistar Ñ
+#EXTINF:-1,Movistar Cine Español
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7224.ts
 #EXTINF:-1,TCM
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18710.ts
@@ -42,382 +74,119 @@ http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13691.ts
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22493.ts
 #EXTINF:-1,Paramount Channel
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7212.ts
-
-
-
-
-#EXTINF:-1,SP: NEOX
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7194.ts
-#EXTINF:-1,SP: NOVA
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/42.ts
-#EXTINF:-1,SP: MEGA
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/14118.ts
-#EXTINF:-1,SP: FDF
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/404.ts
-#EXTINF:-1,SP: DIVINITY
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7196.ts
-#EXTINF:-1,SP: ENERGY
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/405.ts
-#EXTINF:-1,---------- MOVISTAR + ----------
-#EXTINF:-1,0#
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/19279.ts
-#EXTINF:-1,---------- CINE ----------
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13651.ts
-#EXTINF:-1,SP: M. ESTRENOS SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/9.ts
-#EXTINF:-1,SP: M. ESTRENOS HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/425.ts
-#EXTINF:-1,SP: M. ESTRENOS HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18704.ts
-#EXTINF:-1,SP: M. ACCION
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/5.ts
-#EXTINF:-1,SP: M. ACCION HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13603.ts
-#EXTINF:-1,SP: M. ACCION HD(1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18703.ts
-#EXTINF:-1,SP: M. COMEDIA
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/6.ts
-#EXTINF:-1,SP: M. COMEDIA HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7211.ts
-#EXTINF:-1,SP:  M. COMEDIA HD(1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18702.ts
-#EXTINF:-1,SP: M. DCINE
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/25.ts
-#EXTINF:-1,SP: M. DCINE HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7210.ts
-#EXTINF:-1,SP: M. DCINE HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18705.ts
-#EXTINF:-1,SP: M. XTRA
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/16.ts
-#EXTINF:-1,SP: M. XTRA HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13625.ts
-#EXTINF:-1,SP: XTRA HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/20949.ts
-#EXTINF:-1,SP: M CINE ESPANOL
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7224.ts
-#EXTINF:-1,SP: XTRRM
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22491.ts
-#EXTINF:-1,SP: Aragon TV SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22609.ts
-#EXTINF:-1,SP: Bajo Demanda SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22608.ts
-#EXTINF:-1,SP: CARACOL
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22494.ts
-#EXTINF:-1,SP: DARK
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22493.ts
-#EXTINF:-1,---------- SERIES ----------
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13652.ts
-#EXTINF:-1,SP: M. SERIES
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13.ts
-#EXTINF:-1,SP: M. SERIES HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13605.ts
-#EXTINF:-1,SP: M SERIES HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18706.ts
-#EXTINF:-1,SP: M. SERIES XTRA
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/14.ts
-#EXTINF:-1,SP: M. SERIES XTRA HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13628.ts
-#EXTINF:-1,SP: M. SERIES XTRA HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18707.ts
-#EXTINF:-1,SP: COMEDY CENTRAL SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7216.ts
-#EXTINF:-1,SP: COMEDY CENTRAL HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13634.ts
-#EXTINF:-1,SP: COMEDYCENTRAL HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/20951.ts
-#EXTINF:-1,SP: HOLLYWOOD SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/32.ts
-#EXTINF:-1,SP: HOLLYWOOD HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13593.ts
-#EXTINF:-1,SP: HOLLYWOOD HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18708.ts
-#EXTINF:-1,SP: PARAMOUNT
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7212.ts
-#EXTINF:-1,SP: FOX
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/29.ts
-#EXTINF:-1,SP: FOX HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13594.ts
-#EXTINF:-1,SP: FOX HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18713.ts
-#EXTINF:-1,SP: FOX LIFE SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/30.ts
-#EXTINF:-1,SP: FOX LIFE HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13622.ts
-#EXTINF:-1,SP: FOX LIFE HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/20950.ts
-#EXTINF:-1,SP: AMC
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13665.ts
-#EXTINF:-1,SP: AMC HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13702.ts
-#EXTINF:-1,SP: AMC HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18709.ts
-#EXTINF:-1,SP: AXN
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/3.ts
-#EXTINF:-1,SP: AXN HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13589.ts
-#EXTINF:-1,SP: AXN HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/20945.ts
-#EXTINF:-1,SP: AXN WHITE
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/4.ts
-#EXTINF:-1,SP: AXN WHITE HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13624.ts
-#EXTINF:-1,SP: AXN WITHE HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/20948.ts
-#EXTINF:-1,SP:  SYFY
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/48.ts
-#EXTINF:-1,SP: SYFY HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13633.ts
-#EXTINF:-1,SP: SYFY HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/20947.ts
-#EXTINF:-1,SP: TNT
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/46.ts
-#EXTINF:-1,SP: TNT HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13592.ts
-#EXTINF:-1,SP: TNT HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22616.ts
-#EXTINF:-1,SP: TCM
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/43.ts
-#EXTINF:-1,SP: TCM HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13604.ts
-#EXTINF:-1,SP: TCM HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18710.ts
-#EXTINF:-1,SP: SUNDANCE
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13691.ts
-#EXTINF:-1,SP: CALLE 13
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/17.ts
-#EXTINF:-1,SP: CALLE 13 HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13645.ts
-#EXTINF:-1,SP: CALLE 13 HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/20946.ts
-#EXTINF:-1,SP: A&E
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/2.ts
-#EXTINF:-1,---------- EXTRA ----------
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13660.ts
-#EXTINF:-1,SP: TOROS
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/15.ts
-#EXTINF:-1,SP: TOROS HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13602.ts
-#EXTINF:-1,SP: TOROS HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18711.ts
-#EXTINF:-1,SP: CAZA Y PESCA
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/21.ts
-#EXTINF:-1,SP: IBERALIA TV
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13936.ts
-#EXTINF:-1,---------- DOCUMENTALES ----------
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13654.ts
-#EXTINF:-1,SP: HISTORIA
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/31.ts
-#EXTINF:-1,SP: CANAL ODISEA
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7225.ts
-#EXTINF:-1,SP: NAT GEO HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13590.ts
-#EXTINF:-1,SP: NAT GEO WILD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/39.ts
-#EXTINF:-1,SP: Nat Geo Wild HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22613.ts
-#EXTINF:-1,SP: Nat Geo Wild HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22614.ts
-#EXTINF:-1,SP: NATIONAL GEOGRAPHIC
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/38.ts
-#EXTINF:-1,SP: NATIONAL GEOGRAPHIC HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/19276.ts
-#EXTINF:-1,SP: VIAJAR
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13623.ts
-#EXTINF:-1,SP: DISCOVERY
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13692.ts
-#EXTINF:-1,SP: CRIME & INVESTIGATION
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7226.ts
-#EXTINF:-1,SP: NON STOP PEOPLE
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13935.ts
-#EXTINF:-1,SP: TLC SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22605.ts
-#EXTINF:-1,----------- MUSICA ----------
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/17743.ts
-#EXTINF:-1,SP: MEZZO
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13701.ts
-#EXTINF:-1,SP: VH1
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/47.ts
-#EXTINF:-1,SP: M. eSports
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/426.ts
-#EXTINF:-1,SP: MTV
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13667.ts
-#EXTINF:-1,SP: MTV Rocks SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22604.ts
-#EXTINF:-1,SP: SOL MUSICA
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/411.ts
-#EXTINF:-1,SP: Classica SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22607.ts
-#EXTINF:-1,---------- ESTILO DE VIDA ----------
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13659.ts
-#EXTINF:-1,SP: Cosmo SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22610.ts
-#EXTINF:-1,SP: COSMO HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13629.ts
-#EXTINF:-1,SP: COSMO HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18712.ts
-#EXTINF:-1,SP: CANAL COCINA
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7201.ts
-#EXTINF:-1,SP: CANAL DECASA
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/1760.ts
-#EXTINF:-1,SP: CANAL ORBE 21
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13937.ts
-#EXTINF:-1,SP: 24 HORAS
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13939.ts
-#EXTINF:-1,---------- INFANTILES ----------
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13655.ts
-#EXTINF:-1,SP: DISNEY CHANNEL
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/26.ts
-#EXTINF:-1,SP: DISNEY JUNIOR
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/27.ts
-#EXTINF:-1,SP: DISNEY XD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/28.ts
-#EXTINF:-1,SP: NICK JR
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/41.ts
-#EXTINF:-1,SP: NICKELODEON
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/40.ts
-#EXTINF:-1,SP: Nickelodeon HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22615.ts
-#EXTINF:-1,SP: CLAN TVE
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/413.ts
-#EXTINF:-1,SP: BOING
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/409.ts
-#EXTINF:-1,SP: BABY TV
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13666.ts
-#EXTINF:-1,SP: CANAL PANDA
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13669.ts
-#EXTINF:-1,---------- DEPORTES ----------
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13653.ts
-#EXTINF:-1,SP: BEIN SPORTS SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/587.ts
-#EXTINF:-1,SP: BEIN SPORTS HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/5983.ts
-#EXTINF:-1,SP: BEIN SPORTS HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18684.ts
-#EXTINF:-1,SP: BEIN LA LIGA SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13914.ts
-#EXTINF:-1,SP: BEIN LA LIGA HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13932.ts
-#EXTINF:-1,SP: BEIN LA LIGA HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18683.ts
-#EXTINF:-1,SP: LA LIGA TV BAR SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/12.ts
-#EXTINF:-1,SP: LA LIGA TV BAR HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13933.ts
-#EXTINF:-1,SP: LA LIGA TV BAR (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18685.ts
-#EXTINF:-1,SP: LA LIGA BAR TV 1
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13940.ts
-#EXTINF:-1,SP: GOL TV
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13934.ts
-#EXTINF:-1,SP: M. PARTIDAZO SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/9190.ts
-#EXTINF:-1,SP: M. PARTIDAZO HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13649.ts
-#EXTINF:-1,SP: M. PARTIDAZO HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18692.ts
-#EXTINF:-1,SP: M. FUTBOL
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/10.ts
-#EXTINF:-1,SP: M.  FUTBOL HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13596.ts
-#EXTINF:-1,SP: M. FUTBOL HD (1080)
+#EXTINF:-1,Movistar Fútbol
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18686.ts
-#EXTINF:-1,SP: M.  DEPORTES 1 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/419.ts
-#EXTINF:-1,SP: M. DEPORTES 1 HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13600.ts
-#EXTINF:-1,SP: M. DEPORTES 1 HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18690.ts
-#EXTINF:-1,SP: M. DEPORTES 2
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7197.ts
-#EXTINF:-1,SP: M. DEPORTES 2 HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13627.ts
-#EXTINF:-1,SP: M. DEPORTES 2 HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18691.ts
-#EXTINF:-1,SP: M. GOLF
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/11.ts
-#EXTINF:-1,SP: M. GOLF HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7202.ts
-#EXTINF:-1,SP: M. GOLF HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18689.ts
-#EXTINF:-1,SP: M. F1 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/5963.ts
-#EXTINF:-1,SP: M. F1 HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13642.ts
-#EXTINF:-1,SP: M. F1 HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18687.ts
-#EXTINF:-1,SP: M. MOTO GP
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/5962.ts
-#EXTINF:-1,SP:  M. MOTO GP HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13641.ts
-#EXTINF:-1,SP: M. MOTO GP HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18688.ts
-#EXTINF:-1,SP: EUROSPORT 1 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13668.ts
-#EXTINF:-1,SP: EUROSPORT 1 HD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13587.ts
-#EXTINF:-1,SP: EUROSPORT 1 HD (1080)
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/19277.ts
-#EXTINF:-1,SP: EUROSPORT 2 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13670.ts
-#EXTINF:-1,SP: BEIN LA LIGA TV 1 SD
+#EXTINF:-1,Movistar Partidazo
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18692.ts
+#EXTINF:-1,Bein LaLiga
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18683.ts
+#EXTINF:-1,Bein LaLiga 1
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13700.ts
-#EXTINF:-1,SP: BEIN LA LIGA TV 2 SD
+#EXTINF:-1,Bein LaLiga 2
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13699.ts
-#EXTINF:-1,SP: BEIN LA LIGA TV 3 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13698.ts
-#EXTINF:-1,SP: BEIN LA LIGA TV 4 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13697.ts
-#EXTINF:-1,SP: BEIN LA LIGA TV 5 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13696.ts
-#EXTINF:-1,SP: BEIN LA LIGA TV 6 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13695.ts
-#EXTINF:-1,SP: BEIN LA LIGA TV 7 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13694.ts
-#EXTINF:-1,SP: BEIN LA LIGA TV 8 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13693.ts
-#EXTINF:-1,SP: BEIN MAX 1
+#EXTINF:-1,Bein Sports
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18684.ts
+#EXTINF:-1,Bein Max1
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13948.ts
-#EXTINF:-1,SP: BEIN MAX 2
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13947.ts
-#EXTINF:-1,SP: BEIN MAX 3
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13946.ts
-#EXTINF:-1,SP: BEIN MAX 4
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13945.ts
-#EXTINF:-1,SP: BEIN MAX 5
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13944.ts
-#EXTINF:-1,SP: BEIN MAX 6
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13943.ts
-#EXTINF:-1,SP: BEIN MAX 7
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13942.ts
-#EXTINF:-1,SP: BEIN MAX 8
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13941.ts
-#EXTINF:-1,SP: Multideportes SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22611.ts
-#EXTINF:-1,SP: MULTIDEPORTES 1
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/16837.ts
-#EXTINF:-1,SP: MULTIDEPORTES 2
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/16838.ts
-#EXTINF:-1,SP: MULTIDEPORTES 3
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/16839.ts
-#EXTINF:-1,SP: MULTIDEPORTES 4
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/16840.ts
-#EXTINF:-1,SP: MULTIDEPORTES 5 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22623.ts
-#EXTINF:-1,SP: MULTIDEPORTES 6 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22624.ts
-#EXTINF:-1,SP: MULTIFUTBOLL 1 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22628.ts
-#EXTINF:-1,SP: MULTIFUTBOLL 2 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22625.ts
-#EXTINF:-1,SP: MULTIFUTBOLL 3 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22626.ts
-#EXTINF:-1,SP: MULTIFUTBOLL 4 SD
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22627.ts
-#EXTINF:-1,SP: BARCA TV
-http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7213.ts
-#EXTINF:-1,SP: REAL MADRID
+#EXTINF:-1,Real Madrid TV
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/422.ts
-#EXTINF:-1,SP: TELEDEPORTES
+#EXTINF:-1,Barça TV
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7213.ts
+#EXTINF:-1,Movistar Deportes 1
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18690.ts
+#EXTINF:-1,Movistar Deportes 2
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18691.ts
+#EXTINF:-1,Movistar F1
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18687.ts
+#EXTINF:-1,Movistar MotoGP
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18688.ts
+#EXTINF:-1,Movistar Golf
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18689.ts
+#EXTINF:-1,Eurosport 1
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/19277.ts
+#EXTINF:-1,Eurosport 2
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13670.ts
+#EXTINF:-1,GOL
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13934.ts
+#EXTINF:-1,Teledeporte
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13917.ts
-#EXTINF:-1,SP: Fox News SD
+#EXTINF:-1,Caza y Pesca
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/21.ts
+#EXTINF:-1,Iberalia TV
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13936.ts
+#EXTINF:-1,Toros TV
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18711.ts
+#EXTINF:-1,Multideporte 1
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/16837.ts
+#EXTINF:-1,National Geographic
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/19276.ts
+#EXTINF:-1,Nat Geo Wild
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22614.ts
+#EXTINF:-1,Historia
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/31.ts
+#EXTINF:-1,Discovery Channel
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13692.ts
+#EXTINF:-1,Odisea
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7225.ts
+#EXTINF:-1,A&E
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/2.ts
+#EXTINF:-1,Viajar
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13623.ts
+#EXTINF:-1,Crimen + Investigación
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7226.ts
+#EXTINF:-1,Canal Cocina
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7201.ts
+#EXTINF:-1,Canal Decasa
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/1760.ts
+#EXTINF:-1,Divinity
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/7196.ts
+#EXTINF:-1,Nova
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/42.ts
+#EXTINF:-1,Mega
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/14118.ts
+#EXTINF:-1,Canal Orbe 21
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13937.ts
+#EXTINF:-1,Baby TV
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13666.ts
+#EXTINF:-1,Disney Junior
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/27.ts
+#EXTINF:-1,Canal Panda
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13669.ts
+#EXTINF:-1,NICK JR
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/41.ts
+#EXTINF:-1,Nickelodeon
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22615.ts
+#EXTINF:-1,Disney XD
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/28.ts
+#EXTINF:-1,Disney Channel
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/26.ts
+#EXTINF:-1,Boing
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/409.ts
+#EXTINF:-1,Clan TVE
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/413.ts
+#EXTINF:-1,VH1
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/47.ts
+#EXTINF:-1,MTV ROCKS
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22604.ts
+#EXTINF:-1,Mezzo
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13701.ts
+#EXTINF:-1,Classica
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22607.ts
+#EXTINF:-1,Canal 24 Horas
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/13939.ts
+#EXTINF:-1,BBC World News
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/23775.ts
+#EXTINF:-1,CNN International
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18804.ts
+#EXTINF:-1,Fox News
 http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/22606.ts
+#EXTINF:-1,Euronews
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/4060.ts
+#EXTINF:-1,CNBC
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/18502.ts
+#EXTINF:-1,TV5 MONDE
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/4039.ts
+#EXTINF:-1,Bloomberg
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/1581.ts
+#EXTINF:-1,Sky News
+http://alphatv.info:999/live/sNv5nfgo6H/RX6PdRcvh0/1575.ts
