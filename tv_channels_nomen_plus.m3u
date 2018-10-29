@@ -1,0 +1,623 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="TVE ASTRA HD 1.sp" tvg-name="LA 1 HD 1080" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/la-1-en-directo-online.png" group-title="ESPAÑA",LA 1 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3869
+#EXTINF:-1 tvg-ID="TVE ASTRA HD 1.sp" tvg-name="LA 1 720p" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/la-1-en-directo-online.png" group-title="ESPAÑA",LA 1 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/5348
+#EXTINF:-1 tvg-ID="" tvg-name="LA 1 SD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/la-1-en-directo-online.png" group-title="ESPAÑA",LA 1 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4130
+#EXTINF:-1 tvg-ID="LA2 TDT HD 2.sp" tvg-name="LA 2 HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/LA2.png" group-title="ESPAÑA",LA 2 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12007
+#EXTINF:-1 tvg-ID="LA2 ASTRA SD 1.sp" tvg-name="La 2 SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/LA2.png" group-title="ESPAÑA",La 2 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4045
+#EXTINF:-1 tvg-ID="A3 ASTRA HD 1.sp" tvg-name="ANTENA 3 HD 1080" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑA",ANTENA 3 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3880
+#EXTINF:-1 tvg-ID="A3 ASTRA HD 1.sp" tvg-name="Antena 3 720P" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑA",Antena 3 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4035
+#EXTINF:-1 tvg-ID="A3 ASTRA HD 1.sp" tvg-name="ANTENA 3 SD" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑA",ANTENA 3 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/5350
+#EXTINF:-1 tvg-ID="C4 ASTRA HD 1.sp" tvg-name="CUATRO HD 1080" tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA",CUATRO HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3873
+#EXTINF:-1 tvg-ID="C4 ASTRA HD 1.sp" tvg-name="CUATRO 720p" tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA",CUATRO 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3993
+#EXTINF:-1 tvg-ID="C4 TDT HD 3.sp" tvg-name="CUATRO SD" tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA",CUATRO SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4140
+#EXTINF:-1 tvg-ID="T5 ASTRA HD 1.sp" tvg-name="TELECINCO HD 1080" tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2016/10/telecinco-logo.jpg" group-title="ESPAÑA",TELECINCO HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3853
+#EXTINF:-1 tvg-ID="T5 TDT HD 3.sp" tvg-name="Telecinco HD 720" tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2016/10/telecinco-logo.jpg" group-title="ESPAÑA",Telecinco HD 720
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4016
+#EXTINF:-1 tvg-ID="T5 ASTRA HD 1.sp" tvg-name="TELECINCO SD" tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2016/10/telecinco-logo.jpg" group-title="ESPAÑA",TELECINCO SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3825
+#EXTINF:-1 tvg-ID="SEXTA ASTRA HD 1.sp" tvg-name="LA sexta HD 1080" tvg-logo="http://www.formulatv.com/images/noticias/53900/53944/16_ecd6c5ab12.jpg" group-title="ESPAÑA",LA sexta HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3846
+#EXTINF:-1 tvg-ID="SEXTA ASTRA HD 1.sp" tvg-name="LA SEXTA HD 720" tvg-logo="http://www.formulatv.com/images/noticias/53900/53944/16_ecd6c5ab12.jpg" group-title="ESPAÑA",LA SEXTA HD 720
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3997
+#EXTINF:-1 tvg-ID="" tvg-name="LA SEXTA SD" tvg-logo="http://www.formulatv.com/images/noticias/53900/53944/16_ecd6c5ab12.jpg" group-title="ESPAÑA",LA SEXTA SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4129
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar Halloween 720p" tvg-logo="http://www.la-fm.es/wp-content/uploads/2018/10/GRAF_HORIZONTAL_Halloween-1-e1539162523645.jpg" group-title="ESPAÑA",Movistar Halloween 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/34787
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar Halloween SD" tvg-logo="https://www.mundoplus.tv/img/4894a277d05c2fe0d57ddd2d689c7f8a" group-title="ESPAÑA",Movistar Halloween SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/35475
+#EXTINF:-1 tvg-ID="MV3 ASTRA HD 1.sp" tvg-name="#0 HD 1080" tvg-logo="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" group-title="ESPAÑA",#0 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3882
+#EXTINF:-1 tvg-ID="MV3 ASTRA HD 1.sp" tvg-name="#0 720P" tvg-logo="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" group-title="ESPAÑA",#0 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/6880
+#EXTINF:-1 tvg-ID="MV3 ASTRA HD 1.sp" tvg-name="#0 SD" tvg-logo="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" group-title="ESPAÑA",#0 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/11231
+#EXTINF:-1 tvg-ID="CPCOME ASTRA HD 1.sp" tvg-name="MOVISTAR COMEDIA HD 1080" tvg-logo="https://movistar.i.lithium.com/t5/image/serverpage/image-id/111649i67B5BCFE25EC8F99?v=1.0" group-title="ESPAÑA",MOVISTAR COMEDIA HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3859
+#EXTINF:-1 tvg-ID="CPCOME ASTRA HD 1.sp" tvg-name="MOVISTAR COMEDIA 720" tvg-logo="https://movistar.i.lithium.com/t5/image/serverpage/image-id/111649i67B5BCFE25EC8F99?v=1.0" group-title="ESPAÑA",MOVISTAR COMEDIA 720
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/5363
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar Comedia SD" tvg-logo="https://movistar.i.lithium.com/t5/image/serverpage/image-id/111649i67B5BCFE25EC8F99?v=1.0" group-title="ESPAÑA",Movistar Comedia SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4082
+#EXTINF:-1 tvg-ID="CPACCI ASTRA HD 1.sp" tvg-name="MOVISTAR ACCION HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPACCI.png" group-title="ESPAÑA",MOVISTAR ACCION HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/5361
+#EXTINF:-1 tvg-ID="CPACCI ASTRA HD 1.sp" tvg-name="MOVISTAR ACCION 720p" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPACCI.png" group-title="ESPAÑA",MOVISTAR ACCION 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/6881
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar Accion SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPACCI.png" group-title="ESPAÑA",Movistar Accion SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4083
+#EXTINF:-1 tvg-ID="CPCOLE ASTRA HD 1.sp" tvg-name="Movistar DRAMA HD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="ESPAÑA",Movistar DRAMA HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3866
+#EXTINF:-1 tvg-ID="CPCOLE ASTRA HD 1.sp" tvg-name="MOVISTAR DRAMA 720p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="ESPAÑA",MOVISTAR DRAMA 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/6882
+#EXTINF:-1 tvg-ID="CPCOLE ASTRA SD 2.sp" tvg-name="MOVISTAR DRAMA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="ESPAÑA",MOVISTAR DRAMA SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4053
+#EXTINF:-1 tvg-ID="CPSER ASTRA HD 1.sp" tvg-name="MOVISTAR SERIES HD 1080" tvg-logo="https://pbs.twimg.com/profile_images/907900429647872000/1F5Bsw-0_400x400.jpg" group-title="ESPAÑA",MOVISTAR SERIES HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/6891
+#EXTINF:-1 tvg-ID="CPSER ASTRA HD 1.sp" tvg-name="MOVISTAR SERIES 720p" tvg-logo="https://pbs.twimg.com/profile_images/907900429647872000/1F5Bsw-0_400x400.jpg" group-title="ESPAÑA",MOVISTAR SERIES 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3861
+#EXTINF:-1 tvg-ID="CPSER ASTRA SD 2.sp" tvg-name="MOVISTAR SERIES SD" tvg-logo="https://pbs.twimg.com/profile_images/907900429647872000/1F5Bsw-0_400x400.jpg" group-title="ESPAÑA",MOVISTAR SERIES SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4124
+#EXTINF:-1 tvg-ID="MV2 ASTRA HD 1.sp" tvg-name="MOVISTAR Seriesmania HD 1080" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/600x600---M-seriesmania.png/e00eba0e-eee7-f725-3f2f-cdb1a3a4e22b?t=1535626801516" group-title="ESPAÑA",MOVISTAR Seriesmania HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3860
+#EXTINF:-1 tvg-ID="MV2 ASTRA HD 1.sp" tvg-name="Movistar Seriesmania 720p" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/600x600---M-seriesmania.png/e00eba0e-eee7-f725-3f2f-cdb1a3a4e22b?t=1535626801516" group-title="ESPAÑA",Movistar Seriesmania 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4021
+#EXTINF:-1 tvg-ID="MV2 ASTRA SD 2.sp" tvg-name="Movistar seriesmania SD" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/600x600---M-seriesmania.png/e00eba0e-eee7-f725-3f2f-cdb1a3a4e22b?t=1535626801516" group-title="ESPAÑA",Movistar seriesmania SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/27088
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar CineDoc&Roll HD 1080" tvg-logo="https://www.mundoplus.tv/img/225154c01d240a3699219ba1647fc89d" group-title="ESPAÑA",Movistar CineDoc&Roll HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/27100
+#EXTINF:-1 tvg-ID="MV2 ASTRA HD 1.sp" tvg-name="Movistar CineDoc&Roll 720p" tvg-logo="https://www.mundoplus.tv/img/225154c01d240a3699219ba1647fc89d" group-title="ESPAÑA",Movistar CineDoc&Roll 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4019
+#EXTINF:-1 tvg-ID="MV1 ASTRA HD 1.sp" tvg-name="MOVISTAR ESTRENOS HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV1.png" group-title="ESPAÑA",MOVISTAR ESTRENOS HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/5366
+#EXTINF:-1 tvg-ID="MV1 ASTRA HD 1.sp" tvg-name="Movistar Estrenos 720p" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV1.png" group-title="ESPAÑA",Movistar Estrenos 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4024
+#EXTINF:-1 tvg-ID="MV1 ASTRA SD 2.sp" tvg-name="MOVISTAR ESTRENOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV1.png" group-title="ESPAÑA",MOVISTAR ESTRENOS SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3995
+#EXTINF:-1 tvg-ID="MDISNE ASTRA SD 1.sp" tvg-name="MOVISTAR DISNEY HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MDISNE.png" group-title="ESPAÑA",MOVISTAR DISNEY HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/18141
+#EXTINF:-1 tvg-ID="MDISNE ASTRA SD 1.sp" tvg-name="MOVISTAR DISNEY 720p" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MDISNE.png" group-title="ESPAÑA",MOVISTAR DISNEY 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12010
+#EXTINF:-1 tvg-ID="DCESP ASTRA SD 1.sp" tvg-name="Movistar Cine Español SD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-cine-espanol.jpg.pagespeed.ic.Oz2iMjhLt9.jpg" group-title="ESPAÑA",Movistar Cine Español SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4126
+#EXTINF:-1 tvg-ID="" tvg-name="DARK" tvg-logo="https://pbs.twimg.com/profile_images/790586217452736512/6hwKbhz1_400x400.jpg" group-title="ESPAÑA",DARK
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12013
+#EXTINF:-1 tvg-ID="TEN TDT SD 1.sp" tvg-name="TEN SD" tvg-logo="https://pbs.twimg.com/profile_images/935558504584286209/7hSasxXi_400x400.jpg" group-title="ESPAÑA",TEN SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/18147
+#EXTINF:-1 tvg-ID="" tvg-name="SOMOS SD" tvg-logo="https://canalsomos.es/wp-content/themes/canalsomos/images/somos-logo.png" group-title="ESPAÑA",SOMOS SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/18138
+#EXTINF:-1 tvg-ID="AMC ASTRA HD 1.sp" tvg-name="AMC HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/AMC.png" group-title="ESPAÑA",AMC HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3881
+#EXTINF:-1 tvg-ID="AMC ASTRA HD 1.sp" tvg-name="AMC 720p" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/AMC.png" group-title="ESPAÑA",AMC 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/27103
+#EXTINF:-1 tvg-ID="AMC ASTRA HD 1.sp" tvg-name="AMC SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/AMC.png" group-title="ESPAÑA",AMC SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/6883
+#EXTINF:-1 tvg-ID="TNT ASTRA HD 1.sp" tvg-name="TNT HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TNT.png" group-title="ESPAÑA",TNT HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3852
+#EXTINF:-1 tvg-ID="TNT ASTRA HD 1.sp" tvg-name="TNT HD 720" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TNT.png" group-title="ESPAÑA",TNT HD 720
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4015
+#EXTINF:-1 tvg-ID="TNT ASTRA SD 2.sp" tvg-name="TNT SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TNT.png" group-title="ESPAÑA",TNT SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4102
+#EXTINF:-1 tvg-ID="TCM ASTRA HD 1.sp" tvg-name="TCM HD 1080" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/nuevo_logo_tcm.jpg" group-title="ESPAÑA",TCM HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/5360
+#EXTINF:-1 tvg-ID="TCM ASTRA HD 1.sp" tvg-name="TCM 720P" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/nuevo_logo_tcm.jpg" group-title="ESPAÑA",TCM 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4006
+#EXTINF:-1 tvg-ID="TCM ASTRA HD 1.sp" tvg-name="TCM SD" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/nuevo_logo_tcm.jpg" group-title="ESPAÑA",TCM SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/27102
+#EXTINF:-1 tvg-ID="HOLLYW ASTRA HD 1.sp" tvg-name="Hollywood HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/HOLLYW.png" group-title="ESPAÑA",Hollywood HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3847
+#EXTINF:-1 tvg-ID="HOLLYW ASTRA HD 1.sp" tvg-name="Hollywood 720p" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/HOLLYW.png" group-title="ESPAÑA",Hollywood 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/27101
+#EXTINF:-1 tvg-ID="HOLLYW ASTRA SD 2.sp" tvg-name="HOLLYWOOD SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/HOLLYW.png" group-title="ESPAÑA",HOLLYWOOD SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4131
+#EXTINF:-1 tvg-ID="CL13 ASTRA HD 1.sp" tvg-name="CALLE 13 HD 1080" tvg-logo="http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg" group-title="ESPAÑA",CALLE 13 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3876
+#EXTINF:-1 tvg-ID="CL13 ASTRA HD 1.sp" tvg-name="Calle 13 720P" tvg-logo="http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg" group-title="ESPAÑA",Calle 13 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4033
+#EXTINF:-1 tvg-ID="Calle13.es" tvg-name="Calle 13 SD" tvg-logo="http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg" group-title="ESPAÑA",Calle 13 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12729
+#EXTINF:-1 tvg-ID="AXN ASTRA HD 1.sp" tvg-name="AXN HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/AXN.png" group-title="ESPAÑA",AXN HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3879
+#EXTINF:-1 tvg-ID="AXN ASTRA HD 1.sp" tvg-name="AXN 720p" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/AXN.png" group-title="ESPAÑA",AXN 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4034
+#EXTINF:-1 tvg-ID="AXN ASTRA HD 1.sp" tvg-name="AXN SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/AXN.png" group-title="ESPAÑA",AXN SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/27089
+#EXTINF:-1 tvg-ID="SET ASTRA HD 1.sp" tvg-name="AXN White HD 1080" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/AXN_White.png/revision/latest?cb=20161214222911" group-title="ESPAÑA",AXN White HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4097
+#EXTINF:-1 tvg-ID="SET ASTRA HD 1.sp" tvg-name="AXN WHITE 720P" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/AXN_White.png/revision/latest?cb=20161214222911" group-title="ESPAÑA",AXN WHITE 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/5357
+#EXTINF:-1 tvg-ID="SET ASTRA HD 1.sp" tvg-name="AXN WHITE SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/AXN_White.png/revision/latest?cb=20161214222911" group-title="ESPAÑA",AXN WHITE SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/6884
+#EXTINF:-1 tvg-ID="FOXGE ASTRA HD 1.sp" tvg-name="FOX HD 1080" tvg-logo="http://images.bwwstatic.com/tvnetworklogos/13D28F41-F252-A720-A00B65900871D496.jpg" group-title="ESPAÑA",FOX HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3870
+#EXTINF:-1 tvg-ID="FOXGE ASTRA HD 1.sp" tvg-name="FOX 720P" tvg-logo="http://images.bwwstatic.com/tvnetworklogos/13D28F41-F252-A720-A00B65900871D496.jpg" group-title="ESPAÑA",FOX 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3848
+#EXTINF:-1 tvg-ID="FOXGE ASTRA HD 1.sp" tvg-name="FOX SD" tvg-logo="http://images.bwwstatic.com/tvnetworklogos/13D28F41-F252-A720-A00B65900871D496.jpg" group-title="ESPAÑA",FOX SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/6885
+#EXTINF:-1 tvg-ID="FOXCR ASTRA HD 1.sp" tvg-name="Fox Life HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXCR.png" group-title="ESPAÑA",Fox Life HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3842
+#EXTINF:-1 tvg-ID="FOXCR ASTRA HD 1.sp" tvg-name="FOX LIFE 720P" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXCR.png" group-title="ESPAÑA",FOX LIFE 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/29977
+#EXTINF:-1 tvg-ID="FOXCR ASTRA HD 1.sp" tvg-name="FOX LIFE SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXCR.png" group-title="ESPAÑA",FOX LIFE SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/6886
+#EXTINF:-1 tvg-ID="PCM ASTRA HD 1.sp" tvg-name="COMEDY CENTRAL HD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="ESPAÑA",COMEDY CENTRAL HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3874
+#EXTINF:-1 tvg-ID="PCM ASTRA HD 1.sp" tvg-name="COMEDY CENTRAL 720p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="ESPAÑA",COMEDY CENTRAL 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4050
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="ESPAÑA",COMEDY CENTRAL SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/13726
+#EXTINF:-1 tvg-ID="ATRESS TDT HD 1.sp" tvg-name="ATRESERIES HD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="ESPAÑA",ATRESERIES HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/6887
+#EXTINF:-1 tvg-ID="ATRESS TDT HD 1.sp" tvg-name="ATRESERIES 720p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="ESPAÑA",ATRESERIES 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4169
+#EXTINF:-1 tvg-ID="COSMO ASTRA HD 1.sp" tvg-name="Cosmo HD 1080" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/06/Logo-Cosmo.jpg" group-title="ESPAÑA",Cosmo HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3849
+#EXTINF:-1 tvg-ID="COSMO ASTRA HD 1.sp" tvg-name="Cosmo 720p" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/06/Logo-Cosmo.jpg" group-title="ESPAÑA",Cosmo 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12728
+#EXTINF:-1 tvg-ID="COSMO ASTRA HD 1.sp" tvg-name="COSMO SD" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/06/Logo-Cosmo.jpg" group-title="ESPAÑA",COSMO SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/5356
+#EXTINF:-1 tvg-ID="SCI-FI ASTRA HD 1.sp" tvg-name="SYFY HD 1080" tvg-logo="http://elpoderdelasideas.com/wp-content/uploads/nuevo-antes-despues-logo-syfy-universal-2017.png" group-title="ESPAÑA",SYFY HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/5367
+#EXTINF:-1 tvg-ID="SCI-FI ASTRA HD 1.sp" tvg-name="Syfy 720P" tvg-logo="http://elpoderdelasideas.com/wp-content/uploads/nuevo-antes-despues-logo-syfy-universal-2017.png" group-title="ESPAÑA",Syfy 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4004
+#EXTINF:-1 tvg-ID="SCI-FI ASTRA SD 2.sp" tvg-name="SYFY SD" tvg-logo="http://elpoderdelasideas.com/wp-content/uploads/nuevo-antes-despues-logo-syfy-universal-2017.png" group-title="ESPAÑA",SYFY SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12112
+#EXTINF:-1 tvg-ID="FDFIC ASTRA SD 1.sp" tvg-name="FDF SD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="ESPAÑA",FDF SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4134
+#EXTINF:-1 tvg-ID="NEOX ASTRA SD 1.sp" tvg-name="NEOX HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="ESPAÑA",NEOX HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/34784
+#EXTINF:-1 tvg-ID="NEOX ASTRA SD 1.sp" tvg-name="Neox SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/NEOX.png" group-title="ESPAÑA",Neox SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3845
+#EXTINF:-1 tvg-ID="NATGEO ASTRA HD 1.sp" tvg-name="NATIONAL GEOGRAPHIC HD 1080" tvg-logo="http://www.stickpng.com/assets/images/5a0c74bd9642de34b6b65cf5.png" group-title="ESPAÑA",NATIONAL GEOGRAPHIC HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3855
+#EXTINF:-1 tvg-ID="NATGEO ASTRA HD 1.sp" tvg-name="NATIONAL GEOGRAPHIC 720p" tvg-logo="http://www.stickpng.com/assets/images/5a0c74bd9642de34b6b65cf5.png" group-title="ESPAÑA",NATIONAL GEOGRAPHIC 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4077
+#EXTINF:-1 tvg-ID="NATGEO ASTRA SD 2.sp" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://www.stickpng.com/assets/images/5a0c74bd9642de34b6b65cf5.png" group-title="ESPAÑA",NATIONAL GEOGRAPHIC SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12113
+#EXTINF:-1 tvg-ID="NATGW ASTRA HD 1.sp" tvg-name="NAT GEO WILD HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/NATGW.png" group-title="ESPAÑA",NAT GEO WILD HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3854
+#EXTINF:-1 tvg-ID="NATGW ASTRA HD 1.sp" tvg-name="Nat Geo Wild 720p" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/NATGW.png" group-title="ESPAÑA",Nat Geo Wild 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12736
+#EXTINF:-1 tvg-ID="NATGW ASTRA SD 2.sp" tvg-name="Nat Geo Wild SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/NATGW.png" group-title="ESPAÑA",Nat Geo Wild SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4078
+#EXTINF:-1 tvg-ID="CYM ASTRA SD 1.sp" tvg-name="Crimen + Investigacion SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="ESPAÑA",Crimen + Investigacion SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3820
+#EXTINF:-1 tvg-ID="" tvg-name="CAZAVISIÓN TEST 720p" tvg-logo="https://tv.orange.es/UpImages/3580/cazavision_2de8818e11360e74f1e84ce59.png" group-title="ESPAÑA",CAZAVISIÓN TEST 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/18145
+#EXTINF:-1 tvg-ID="CAZPES ASTRA HD 1.sp" tvg-name="CAZA y PESCA HD 1080" tvg-logo="https://i.ytimg.com/vi/NKnpT16csQQ/maxresdefault.jpg" group-title="ESPAÑA",CAZA y PESCA HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3875
+#EXTINF:-1 tvg-ID="CAZPES ASTRA HD 1.sp" tvg-name="CAZA Y PESCA 720p" tvg-logo="https://i.ytimg.com/vi/NKnpT16csQQ/maxresdefault.jpg" group-title="ESPAÑA",CAZA Y PESCA 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12057
+#EXTINF:-1 tvg-ID="CAZPES ASTRA SD 2.sp" tvg-name="CAZA y PESCA SD" tvg-logo="https://i.ytimg.com/vi/NKnpT16csQQ/maxresdefault.jpg" group-title="ESPAÑA",CAZA y PESCA SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12790
+#EXTINF:-1 tvg-ID="CFERIA ASTRA HD 1.sp" tvg-name="TOROS TV HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png" group-title="ESPAÑA",TOROS TV HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3851
+#EXTINF:-1 tvg-ID="CFERIA ASTRA HD 1.sp" tvg-name="TOROS TV 720p" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png" group-title="ESPAÑA",TOROS TV 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12056
+#EXTINF:-1 tvg-ID="CFERIA ASTRA SD 2.sp" tvg-name="TOROS TV SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png" group-title="ESPAÑA",TOROS TV SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4057
+#EXTINF:-1 tvg-ID="DECASA ASTRA SD 1.sp" tvg-name="Canal DeCasa" tvg-logo="http://www.conecta.es/media/zoo/images/canal-de-casa_ba568ee903f4e591256ad47188c5902e.jpg" group-title="ESPAÑA",Canal DeCasa
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3823
+#EXTINF:-1 tvg-ID="ENERGY ASTRA SD 1.sp" tvg-name="Energy 720p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" group-title="ESPAÑA",Energy 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/27087
+#EXTINF:-1 tvg-ID="ENERGY ASTRA SD 1.sp" tvg-name="Energy SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" group-title="ESPAÑA",Energy SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4088
+#EXTINF:-1 tvg-ID="SUNDAN ASTRA SD 1.sp" tvg-name="SUNDANCE HD 1080" tvg-logo="http://www.sundancetv.la/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="ESPAÑA",SUNDANCE HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12054
+#EXTINF:-1 tvg-ID="SUNDAN ASTRA SD 1.sp" tvg-name="SUNDANCE 720p" tvg-logo="http://www.sundancetv.la/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="ESPAÑA",SUNDANCE 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12055
+#EXTINF:-1 tvg-ID="SUNDAN ASTRA SD 1.sp" tvg-name="SUNDANCE SD" tvg-logo="http://www.sundancetv.la/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="ESPAÑA",SUNDANCE SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4104
+#EXTINF:-1 tvg-ID="DKISS TDT SD 1.sp" tvg-name="DKISS SD" tvg-logo="http://www.dkiss.es/wp-content/uploads/logo-DKISS-blanco-rojo.png" group-title="ESPAÑA",DKISS SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12145
+#EXTINF:-1 tvg-ID="" tvg-name="Paramount Network SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="ESPAÑA",Paramount Network SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4040
+#EXTINF:-1 tvg-ID="CanalCocina.es" tvg-name="Canal Cocina SD" tvg-logo="http://canalcocina.es/images/canalcocina.png" group-title="ESPAÑA",Canal Cocina SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4092
+#EXTINF:-1 tvg-ID="BELIGA ASTRA HD 1.sp" tvg-name="BEIN SPORTS LALIGA 4K (MADRID O BARÇA)" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPAÑA",BEIN SPORTS LALIGA 4K (MADRID O BARÇA)
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/18783
+#EXTINF:-1 tvg-ID="BELIGA ASTRA HD 1.sp" tvg-name="BEIN SPORTS LALIGA HD 1080" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPAÑA",BEIN SPORTS LALIGA HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3878
+#EXTINF:-1 tvg-ID="BELIGA ASTRA HD 1.sp" tvg-name="BEIN LALIGA HD 1080 B" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BELIGA.png" group-title="ESPAÑA",BEIN LALIGA HD 1080 B
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/35476
+#EXTINF:-1 tvg-ID="BELIGA ASTRA HD 1.sp" tvg-name="bein SPORTS LALIGA 720p" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPAÑA",bein SPORTS LALIGA 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12066
+#EXTINF:-1 tvg-ID="BELIGA ASTRA HD 1.sp" tvg-name="bein SPORTS LALIGA SD" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPAÑA",bein SPORTS LALIGA SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/5351
+#EXTINF:-1 tvg-ID="" tvg-name="LALIGATVBAR HD 1080" tvg-logo="https://satcesc.com/web/wp-content/uploads/2018/08/laligatv.jpg" group-title="ESPAÑA",LALIGATVBAR HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3868
+#EXTINF:-1 tvg-ID="" tvg-name="LaLigaTVBAR 720p" tvg-logo="https://satcesc.com/web/wp-content/uploads/2018/08/laligatv.jpg" group-title="ESPAÑA",LaLigaTVBAR 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/6888
+#EXTINF:-1 tvg-ID="" tvg-name="LaLigaTVBAR SD" tvg-logo="https://satcesc.com/web/wp-content/uploads/2018/08/laligatv.jpg" group-title="ESPAÑA",LaLigaTVBAR SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4062
+#EXTINF:-1 tvg-ID="CPPART ASTRA HD 1.sp" tvg-name="MOVISTAR PARTIDAZO 4K (MADRID O BARÇA)" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPPART.png" group-title="ESPAÑA",MOVISTAR PARTIDAZO 4K (MADRID O BARÇA)
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/18782
+#EXTINF:-1 tvg-ID="CPPART ASTRA HD 1.sp" tvg-name="MOVISTAR Partidazo HD 1080 (SOLO EMISION PARTIDO)" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPPART.png" group-title="ESPAÑA",MOVISTAR Partidazo HD 1080 (SOLO EMISION PARTIDO)
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3857
+#EXTINF:-1 tvg-ID="CPPART ASTRA HD 1.sp" tvg-name="Movistar Partidazo HD 1080 B (SOLO EMISION PARTIDO)" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPPART.png" group-title="ESPAÑA",Movistar Partidazo HD 1080 B (SOLO EMISION PARTIDO)
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12730
+#EXTINF:-1 tvg-ID="CPPART ASTRA HD 1.sp" tvg-name="Movistar Partidazo 720p (SOLO EMISION PARTIDO)" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPPART.png" group-title="ESPAÑA",Movistar Partidazo 720p (SOLO EMISION PARTIDO)
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12067
+#EXTINF:-1 tvg-ID="CPPART ASTRA SD 2.sp" tvg-name="MOVISTAR Partidazo SD (SOLO EMISION PARTIDO)" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPPART.png" group-title="ESPAÑA",MOVISTAR Partidazo SD (SOLO EMISION PARTIDO)
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4121
+#EXTINF:-1 tvg-ID="CHUEFA ASTRA HD 1.sp" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3877
+#EXTINF:-1 tvg-ID="CHUEFA ASTRA HD 1.sp" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080 B" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES HD 1080 B
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12726
+#EXTINF:-1 tvg-ID="CHUEFA ASTRA HD 1.sp" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080 C" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES HD 1080 C
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12727
+#EXTINF:-1 tvg-ID="CHUEFA ASTRA HD 1.sp" tvg-name="MOVISTAR LIGA DE CAMPEONES 720P" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4036
+#EXTINF:-1 tvg-ID="CHUEFA ASTRA HD 1.sp" tvg-name="MOVISTAR LIGA DE CAMPEONES SD" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/6878
+#EXTINF:-1 tvg-ID="LIGA2 ASTRA SD 1.sp" tvg-name="LaLIGA 123 TV HD 1080" tvg-logo="https://blog.mundo-r.com/wp-content/uploads/2018/08/laliga123.png" group-title="ESPAÑA",LaLIGA 123 TV HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/19347
+#EXTINF:-1 tvg-ID="LIGA2 ASTRA SD 1.sp" tvg-name="LaLIGA 123 TV 720p" tvg-logo="https://blog.mundo-r.com/wp-content/uploads/2018/08/laliga123.png" group-title="ESPAÑA",LaLIGA 123 TV 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/6877
+#EXTINF:-1 tvg-ID="LIGA2 ASTRA SD 1.sp" tvg-name="LaLIGA 123 TV SD" tvg-logo="https://blog.mundo-r.com/wp-content/uploads/2018/08/laliga123.png" group-title="ESPAÑA",LaLIGA 123 TV SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/19395
+#EXTINF:-1 tvg-ID="" tvg-name="Liga 123 TV Multi 1" tvg-logo="https://gartel.es/canales/laliga123multi1.png" group-title="ESPAÑA",Liga 123 TV Multi 1
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/19396
+#EXTINF:-1 tvg-ID="" tvg-name="Liga 123 TV Multi 2" tvg-logo="https://www.mundoplus.tv/img/dd09dd1e010a9eab70f8eb206477ed9d" group-title="ESPAÑA",Liga 123 TV Multi 2
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/19397
+#EXTINF:-1 tvg-ID="" tvg-name="Liga 123 TV Multi 3" tvg-logo="https://www.mundoplus.tv/img/94b6ec39311d2e068437b8d83062477e" group-title="ESPAÑA",Liga 123 TV Multi 3
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/19398
+#EXTINF:-1 tvg-ID="" tvg-name="SEVILLA FC SD" tvg-logo="http://sevillafc.es/sites/default/files/inline-images/sevillafc-television.png" group-title="ESPAÑA",SEVILLA FC SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/18146
+#EXTINF:-1 tvg-ID="" tvg-name="BETIS TV" tvg-logo="http://oklivetv.com/wp-content/uploads/media/031a89fb932fc4501cfc67691ccb6f31.jpeg" group-title="ESPAÑA",BETIS TV
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/17654
+#EXTINF:-1 tvg-ID="REALM TDT HD 2.sp" tvg-name="Real Madrid TV HD 1080P" tvg-logo="https://movistar.i.lithium.com/t5/image/serverpage/image-id/116744i0573F208BA2B822B?v=1.0" group-title="ESPAÑA",Real Madrid TV HD 1080P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4068
+#EXTINF:-1 tvg-ID="BARNA ASTRA SD 1.sp" tvg-name="BARÇA TV SD" tvg-logo="http://www.irenediaz.com/wp-content/uploads/2013/10/1bar%C3%A7atv_500x250_2.jpg" group-title="ESPAÑA",BARÇA TV SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4167
+#EXTINF:-1 tvg-ID="CPFUT ASTRA HD 1.sp" tvg-name="MOVISTAR FUTBOL HD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" group-title="ESPAÑA",MOVISTAR FUTBOL HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3864
+#EXTINF:-1 tvg-ID="CPFUT ASTRA HD 1.sp" tvg-name="MOVISTAR FUTBOL HD 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" group-title="ESPAÑA",MOVISTAR FUTBOL HD 720
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4002
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR FUTBOL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" group-title="ESPAÑA",MOVISTAR FUTBOL SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4028
+#EXTINF:-1 tvg-ID="GOL ASTRA SD 1.sp" tvg-name="GOL HD 1080" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20100118132631_640.jpg" group-title="ESPAÑA",GOL HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/18140
+#EXTINF:-1 tvg-ID="GOL ASTRA SD 1.sp" tvg-name="GOL 720p" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20100118132631_640.jpg" group-title="ESPAÑA",GOL 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12061
+#EXTINF:-1 tvg-ID="GOL ASTRA SD 1.sp" tvg-name="GOL SD" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20100118132631_640.jpg" group-title="ESPAÑA",GOL SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4031
+#EXTINF:-1 tvg-ID="MVF1 ASTRA HD 1.sp" tvg-name="MOVISTAR FORMULA 1 HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="ESPAÑA",MOVISTAR FORMULA 1 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3858
+#EXTINF:-1 tvg-ID="MVF1 ASTRA HD 1.sp" tvg-name="MOVISTAR FORMULA 1 720p" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="ESPAÑA",MOVISTAR FORMULA 1 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12011
+#EXTINF:-1 tvg-ID="MVF1 ASTRA SD 2.sp" tvg-name="MOVISTAR FORMULA 1 SD" tvg-logo="https://cdn77.motor.es/fotos-noticias/2018/01/min652x435/movistar-renueva-contrato-emision-f1-201842591_1.jpg" group-title="ESPAÑA",MOVISTAR FORMULA 1 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4029
+#EXTINF:-1 tvg-ID="MVF1 ASTRA HD 1.sp" tvg-name="MOVISTAR FORMULA 1 MULTICAMARA" tvg-logo="https://cdn77.motor.es/fotos-noticias/2018/01/min652x435/movistar-renueva-contrato-emision-f1-201842591_1.jpg" group-title="ESPAÑA",MOVISTAR FORMULA 1 MULTICAMARA
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12065
+#EXTINF:-1 tvg-ID="MVMTGP ASTRA HD 1.sp" tvg-name="Movistar Moto GP HD 1080" tvg-logo="https://pbs.twimg.com/media/Dmk6FNLWsAEOKY5.png" group-title="ESPAÑA",Movistar Moto GP HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3862
+#EXTINF:-1 tvg-ID="MVMTGP ASTRA HD 1.sp" tvg-name="Movistar Moto GP 720p" tvg-logo="https://pbs.twimg.com/media/Dmk6FNLWsAEOKY5.png" group-title="ESPAÑA",Movistar Moto GP 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4026
+#EXTINF:-1 tvg-ID="MVMTGP ASTRA SD 2.sp" tvg-name="MOVISTAR MOTO GP SD" tvg-logo="https://pbs.twimg.com/media/Dmk6FNLWsAEOKY5.png" group-title="ESPAÑA",MOVISTAR MOTO GP SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/10799
+#EXTINF:-1 tvg-ID="MVMTGP ASTRA HD 1.sp" tvg-name="MOVISTAR MOTO GP MULTICAMARA" tvg-logo="https://pbs.twimg.com/media/Dmk6FNLWsAEOKY5.png" group-title="ESPAÑA",MOVISTAR MOTO GP MULTICAMARA
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12064
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES HD 1080" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png?resize=609%2C235" group-title="ESPAÑA",MOVISTAR DEPORTES HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4085
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 720p" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png?resize=609%2C235" group-title="ESPAÑA",MOVISTAR DEPORTES 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/6879
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar Deportes SD" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png?resize=609%2C235" group-title="ESPAÑA",Movistar Deportes SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4055
+#EXTINF:-1 tvg-ID="VAMOSD ASTRA HD 1.sp" tvg-name="#VAMOS HD 1080P" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20180911181421_640.jpg" group-title="ESPAÑA",#VAMOS HD 1080P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/11172
+#EXTINF:-1 tvg-ID="VAMOSD ASTRA HD 1.sp" tvg-name="#VAMOS 720p" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20180911181421_640.jpg" group-title="ESPAÑA",#VAMOS 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4030
+#EXTINF:-1 tvg-ID="VAMOSD ASTRA SD 3.sp" tvg-name="#VAMOS SD" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20180911181421_640.jpg" group-title="ESPAÑA",#VAMOS SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12051
+#EXTINF:-1 tvg-ID="ESP ASTRA HD 1.sp" tvg-name="EUROSPORT 1 HD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="ESPAÑA",EUROSPORT 1 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3871
+#EXTINF:-1 tvg-ID="ESP ASTRA HD 1.sp" tvg-name="EUROSPORT 1 HD 720" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="ESPAÑA",EUROSPORT 1 HD 720
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3998
+#EXTINF:-1 tvg-ID="Eurosport1.es" tvg-name="EUROSPORT 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="ESPAÑA",EUROSPORT 1 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4136
+#EXTINF:-1 tvg-ID="ESP2 ASTRA SD 1.sp" tvg-name="EUROSPORT 2 HD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="ESPAÑA",EUROSPORT 2 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/18143
+#EXTINF:-1 tvg-ID="ESP2 ASTRA SD 1.sp" tvg-name="EUROSPORT 2 720P" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport2.jpg" group-title="ESPAÑA",EUROSPORT 2 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4046
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2 SD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport2.jpg" group-title="ESPAÑA",EUROSPORT 2 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12791
+#EXTINF:-1 tvg-ID="GOLF+ ASTRA HD 1.sp" tvg-name="MOVISTAR GOLF HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF+.png" group-title="ESPAÑA",MOVISTAR GOLF HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3863
+#EXTINF:-1 tvg-ID="GOLF+ ASTRA HD 1.sp" tvg-name="MOVISTAR GOLF SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="ESPAÑA",MOVISTAR GOLF SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12114
+#EXTINF:-1 tvg-ID="ESPORT ASTRA SD 1.sp" tvg-name="MOVISTAR ESPORT HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ESPORT.png" group-title="ESPAÑA",MOVISTAR ESPORT HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12005
+#EXTINF:-1 tvg-ID="" tvg-name="ESPORT 3 SD" tvg-logo="https://satcesc.com/web/wp-content/uploads/2013/02/esport3.jpg" group-title="ESPAÑA",ESPORT 3 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12006
+#EXTINF:-1 tvg-ID="IBERAL ASTRA SD 1.sp" tvg-name="IBERALIA HD 1080" tvg-logo="https://socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="ESPAÑA",IBERALIA HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/18139
+#EXTINF:-1 tvg-ID="IBERAL ASTRA SD 1.sp" tvg-name="IBERALIA TV 720p" tvg-logo="https://socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="ESPAÑA",IBERALIA TV 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4066
+#EXTINF:-1 tvg-ID="IBERAL ASTRA SD 1.sp" tvg-name="IBERALIA TV SD" tvg-logo="https://socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="ESPAÑA",IBERALIA TV SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12735
+#EXTINF:-1 tvg-ID="HIST ASTRA SD 1.sp" tvg-name="HISTORIA HD 1080" tvg-logo="https://www.mundoplus.tv/img/85e328ff40a426bc2545b66d9d8a6d28" group-title="ESPAÑA",HISTORIA HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/29976
+#EXTINF:-1 tvg-ID="Historia.es" tvg-name="Historia SD" tvg-logo="http://arevista.visionmedia.es/wp-content/uploads/2014/09/historia_movistarTv.jpg" group-title="ESPAÑA",Historia SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4087
+#EXTINF:-1 tvg-ID="ODISEA ASTRA SD 1.sp" tvg-name="ODISEA HD 1080" tvg-logo="https://pbs.twimg.com/profile_images/726543483377438720/qL4LgDCT_400x400.jpg" group-title="ESPAÑA",ODISEA HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/18144
+#EXTINF:-1 tvg-ID="ODISEA ASTRA SD 1.sp" tvg-name="ODISEA 720p" tvg-logo="https://pbs.twimg.com/profile_images/726543483377438720/qL4LgDCT_400x400.jpg" group-title="ESPAÑA",ODISEA 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12053
+#EXTINF:-1 tvg-ID="" tvg-name="ODISEA SD" tvg-logo="" group-title="ESPAÑA",ODISEA SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4041
+#EXTINF:-1 tvg-ID="VJR ASTRA HD 1.sp" tvg-name="VIAJAR HD 1080" tvg-logo="http://www.conecta.es/media/zoo/images/viajar_b6bb9b87cf0d4cdd940bb91404b0f35c.jpg" group-title="ESPAÑA",VIAJAR HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3994
+#EXTINF:-1 tvg-ID="VJR ASTRA HD 1.sp" tvg-name="Viajar 720p" tvg-logo="" group-title="ESPAÑA",Viajar 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4069
+#EXTINF:-1 tvg-ID="" tvg-name="El Garage TV" tvg-logo="https://pbs.twimg.com/profile_images/590209545756106752/ckdTiNYI.jpg" group-title="ESPAÑA",El Garage TV
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12731
+#EXTINF:-1 tvg-ID="DIVINI ASTRA SD 1.sp" tvg-name="Divinity 720p" tvg-logo="https://album.mediaset.es/eimg/2017/11/02/GzPsWbmLErUC5Jmh2TyJe2.jpg" group-title="ESPAÑA",Divinity 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/27086
+#EXTINF:-1 tvg-ID="" tvg-name="DIVINITY SD" tvg-logo="https://album.mediaset.es/eimg/2017/11/02/GzPsWbmLErUC5Jmh2TyJe2.jpg" group-title="ESPAÑA",DIVINITY SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4137
+#EXTINF:-1 tvg-ID="NOVA ASTRA SD 1.sp" tvg-name="NOVA HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="ESPAÑA",NOVA HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/34785
+#EXTINF:-1 tvg-ID="" tvg-name="Nova SD" tvg-logo="" group-title="ESPAÑA",Nova SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4076
+#EXTINF:-1 tvg-ID="MEGA TDT SD 1.sp" tvg-name="MEGA 720p" tvg-logo="https://elchapuzasinformatico.com/wp-content/uploads/2016/04/Logo-MEGA.png" group-title="ESPAÑA",MEGA 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/6890
+#EXTINF:-1 tvg-ID="" tvg-name="MEGA SD" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/Mega-en-directo-Online.png?fit=400%2C260" group-title="ESPAÑA",MEGA SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4038
+#EXTINF:-1 tvg-ID="BEMAD ASTRA SD 1.sp" tvg-name="BE MAD HD 1080" tvg-logo="http://todotele.com/wp-content/uploads/2017/04/Be-Mad-logo-300x300.jpg" group-title="ESPAÑA",BE MAD HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12793
+#EXTINF:-1 tvg-ID="BEMAD ASTRA SD 1.sp" tvg-name="BE MAD 720P" tvg-logo="http://todotele.com/wp-content/uploads/2017/04/Be-Mad-logo-300x300.jpg" group-title="ESPAÑA",BE MAD 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12794
+#EXTINF:-1 tvg-ID="BeMad.es" tvg-name="BE MAD SD" tvg-logo="http://todotele.com/wp-content/uploads/2017/04/Be-Mad-logo-300x300.jpg" group-title="ESPAÑA",BE MAD SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12795
+#EXTINF:-1 tvg-ID="" tvg-name="24 horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="ESPAÑA",24 horas
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12734
+#EXTINF:-1 tvg-ID="" tvg-name="XTRM" tvg-logo="" group-title="ESPAÑA",XTRM
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/19342
+#EXTINF:-1 tvg-ID="CanalOrbe21.es" tvg-name="CANAL ORBE 21 SD" tvg-logo="https://mitvstatic.com/channels/ar_canal-orbe-21_m.png" group-title="ESPAÑA",CANAL ORBE 21 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4149
+#EXTINF:-1 tvg-ID="BABY ASTRA SD 1.sp" tvg-name="Baby TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" group-title="ESPAÑA",Baby TV
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/5362
+#EXTINF:-1 tvg-ID="PANDA ASTRA SD 1.sp" tvg-name="CANAL PANDA SD" tvg-logo="http://www.conecta.es/media/zoo/images/canal-panda_cc3d2dc9b26b39331bfd1411b0a23f9d.jpg" group-title="ESPAÑA",CANAL PANDA SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4147
+#EXTINF:-1 tvg-ID="" tvg-name="NICK JR SD" tvg-logo="" group-title="ESPAÑA",NICK JR SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4107
+#EXTINF:-1 tvg-ID="NICK ASTRA HD 1.sp" tvg-name="Nickelodeon HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/NICK.png" group-title="ESPAÑA",Nickelodeon HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3844
+#EXTINF:-1 tvg-ID="NICK ASTRA HD 1.sp" tvg-name="NICKELODEON SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/2000px-Nickelodeon_logo_new.svg.png" group-title="ESPAÑA",NICKELODEON SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/17655
+#EXTINF:-1 tvg-ID="PLAYDC ASTRA SD 1.sp" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://vignette.wikia.nocookie.net/doblaje-fanon/images/5/5a/Logo-Disney-Junior.jpg/revision/latest?cb=20161114172914&path-prefix=es" group-title="ESPAÑA",DISNEY JUNIOR SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4138
+#EXTINF:-1 tvg-ID="DisneyXD.es" tvg-name="Disney XD SD" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/getpubliccontent?contentId=01ea7e32-190e-4088-99af-ef9842773879" group-title="ESPAÑA",Disney XD SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4089
+#EXTINF:-1 tvg-ID="DCH ASTRA HD 1.sp" tvg-name="DISNEY CHANNEL HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCH.png" group-title="ESPAÑA",DISNEY CHANNEL HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3872
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es" group-title="ESPAÑA",DISNEY CHANNEL SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3999
+#EXTINF:-1 tvg-ID="BOING ASTRA SD 1.sp" tvg-name="BOING SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/22/Boinges.png/revision/latest?cb=20160313214531" group-title="ESPAÑA",BOING SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4150
+#EXTINF:-1 tvg-ID="CLANTV ASTRA SD 1.sp" tvg-name="CLAN TVE HD 1080" tvg-logo="http://img2.rtve.es/i/?w=1600&i=1505732525732.jpg" group-title="ESPAÑA",CLAN TVE HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12744
+#EXTINF:-1 tvg-ID="CLANTV ASTRA SD 1.sp" tvg-name="CLAN  TVE SD" tvg-logo="http://img2.rtve.es/i/?w=1600&i=1505732525732.jpg" group-title="ESPAÑA",CLAN  TVE SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4144
+#EXTINF:-1 tvg-ID="MEZOHD ASTRA HD 1.sp" tvg-name="MEZZO LIVE HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MEZOHD.png" group-title="ESPAÑA",MEZZO LIVE HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3856
+#EXTINF:-1 tvg-ID="" tvg-name="MEZZO SD" tvg-logo="" group-title="ESPAÑA",MEZZO SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4120
+#EXTINF:-1 tvg-ID="" tvg-name="TV3 CAT SD" tvg-logo="" group-title="ESPAÑA",TV3 CAT SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4060
+#EXTINF:-1 tvg-ID="" tvg-name="TELEMADRID 720p" tvg-logo="http://s03.s3c.es/imag/_v3/Ecoteuve/640x300/telemadrid-sat-logo.jpg" group-title="ESPAÑA",TELEMADRID 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12009
+#EXTINF:-1 tvg-ID="" tvg-name="ETB 1" tvg-logo="http://www.esacademic.com/pictures/eswiki/76/Logo_ETB1.png" group-title="ESPAÑA",ETB 1
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12732
+#EXTINF:-1 tvg-ID="" tvg-name="RTV MURCIA" tvg-logo="http://www.mjrodriguez.es/wp-content/uploads/2017/05/porfolio7.jpg" group-title="ESPAÑA",RTV MURCIA
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/18119
+#EXTINF:-1 tvg-ID="" tvg-name="ETB 2" tvg-logo="http://zairalifecoaching.es/wp-content/uploads/2014/06/logo_etb2_gran_es.gif" group-title="ESPAÑA",ETB 2
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12733
+#EXTINF:-1 tvg-ID="" tvg-name="TV Galicia SD" tvg-logo="" group-title="ESPAÑA",TV Galicia SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4059
+#EXTINF:-1 tvg-ID="" tvg-name="A PUNT VALENCIA" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" group-title="ESPAÑA",A PUNT VALENCIA
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/13600
+#EXTINF:-1 tvg-ID="ARAGON ASTRA SD 1.sp" tvg-name="ARAGON TV SD" tvg-logo="https://pbs.twimg.com/profile_images/910144802146197504/ZvZ_dXF-_400x400.jpg" group-title="ESPAÑA",ARAGON TV SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/18149
+#EXTINF:-1 tvg-ID="13TV TDT SD 1.sp" tvg-name="TRECE SD" tvg-logo="https://i1.wp.com/elpalomitron.com/wp-content/uploads/2016/09/Logo-nuevo-13TV-calidad.jpg?fit=2458%2C2496" group-title="ESPAÑA",TRECE SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4058
+#EXTINF:-1 tvg-ID="BIOGRA ASTRA SD 1.sp" tvg-name="A&E SD" tvg-logo="https://spoilertime.com/wp-content/uploads/2017/06/0001-780x528.jpg" group-title="ESPAÑA",A&E SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4170
+#EXTINF:-1 tvg-ID="CanalAndalucia.es" tvg-name="CANAL SUR ANDALUCIA" tvg-logo="http://www.canalsur.es/html/recursos/logos/canalsur1.svg" group-title="ESPAÑA",CANAL SUR ANDALUCIA
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12060
+#EXTINF:-1 tvg-ID="ANDATV TDT SD 1.sp" tvg-name="ANDALUCIA TV" tvg-logo="http://www.canalsur.es/html/recursos/logos/atv.svg" group-title="ESPAÑA",ANDALUCIA TV
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4168
+#EXTINF:-1 tvg-ID="DCR ASTRA SD 1.sp" tvg-name="DISCOVERY HD 1080" tvg-logo="https://www.mundoplus.tv/img/85e328ff40a426bc2545b66d9d8a6d28" group-title="ESPAÑA",DISCOVERY HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/29975
+#EXTINF:-1 tvg-ID="DCR ASTRA SD 1.sp" tvg-name="DISCOVERY 720p" tvg-logo="https://www.mundoplus.tv/img/85e328ff40a426bc2545b66d9d8a6d28" group-title="ESPAÑA",DISCOVERY 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12059
+#EXTINF:-1 tvg-ID="DCR ASTRA SD 1.sp" tvg-name="DISCOVERY SD" tvg-logo="https://www.mundoplus.tv/img/85e328ff40a426bc2545b66d9d8a6d28" group-title="ESPAÑA",DISCOVERY SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4139
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY MAX SD" tvg-logo="https://www.elconfidencialdigital.com/medios/Logo-Discovery-Max_ECDIMA20151118_0015_20.png" group-title="ESPAÑA",DISCOVERY MAX SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12058
+#EXTINF:-1 tvg-ID="" tvg-name="GLAMOUR FM" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/11/Glamour-FM-Malaga.jpg" group-title="ESPAÑA",GLAMOUR FM
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/3827
+#EXTINF:-1 tvg-ID="MTV ASTRA SD 1.sp" tvg-name="MTV 720p" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="ESPAÑA",MTV 720p
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/35474
+#EXTINF:-1 tvg-ID="" tvg-name="MTV SD" tvg-logo="" group-title="ESPAÑA",MTV SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4079
+#EXTINF:-1 tvg-ID="TDEP ASTRA SD 1.sp" tvg-name="TELEDEPORTE HD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/640px-Tve_teledeporte.png" group-title="ESPAÑA",TELEDEPORTE HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12063
+#EXTINF:-1 tvg-ID="" tvg-name="TELEDEPORTE SD" tvg-logo="" group-title="ESPAÑA",TELEDEPORTE SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/4103
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar Liga de campeones 1 HD 1080" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="MULTIDEPORTES",Movistar Liga de campeones 1 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8052
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar Liga de campeones 1 720P" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="MULTIDEPORTES",Movistar Liga de campeones 1 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8081
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar Liga de Campeones 1 SD" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="MULTIDEPORTES",Movistar Liga de Campeones 1 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/30571
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar Liga de campeones 2 HD 1080" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="MULTIDEPORTES",Movistar Liga de campeones 2 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8051
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar liga de campeones 2 720P" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="MULTIDEPORTES",Movistar liga de campeones 2 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8080
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar liga de campeones 3 HD 1080" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="MULTIDEPORTES",Movistar liga de campeones 3 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8079
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar liga de campeones 3 720P" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="MULTIDEPORTES",Movistar liga de campeones 3 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/29051
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar liga de campeones 3 SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="MULTIDEPORTES",Movistar liga de campeones 3 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/34786
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar liga de campeones 4" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="MULTIDEPORTES",Movistar liga de campeones 4
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8078
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar liga de campeones 5" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="MULTIDEPORTES",Movistar liga de campeones 5
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8077
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar liga de campeones 6" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="MULTIDEPORTES",Movistar liga de campeones 6
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8076
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar liga de campeones 7" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="MULTIDEPORTES",Movistar liga de campeones 7
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8075
+#EXTINF:-1 tvg-ID="" tvg-name="Movistar liga de campeones 8" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="MULTIDEPORTES",Movistar liga de campeones 8
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8074
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS La liga max 1 hd" tvg-logo="http://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/5312/17/BEIN-MAX-LaLiga-1.png" group-title="MULTIDEPORTES",BEIN SPORTS La liga max 1 hd
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8055
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS La liga max 1" tvg-logo="http://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/5312/17/BEIN-MAX-LaLiga-1.png" group-title="MULTIDEPORTES",BEIN SPORTS La liga max 1
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/13724
+#EXTINF:-1 tvg-ID="beINLaLigaMAX2.es" tvg-name="BEIN SPORTS La liga max 2 hd" tvg-logo="https://gartel.es/canales/beinglaligamax2.png.jpeg" group-title="MULTIDEPORTES",BEIN SPORTS La liga max 2 hd
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8054
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS La liga max 2" tvg-logo="https://gartel.es/canales/beinglaligamax2.png.jpeg" group-title="MULTIDEPORTES",BEIN SPORTS La liga max 2
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/13725
+#EXTINF:-1 tvg-ID="beINLaLigaMAX3.es" tvg-name="BEIN SPORTS La liga max 3" tvg-logo="https://gartel.es/canales/beinglaligamax3.jpeg" group-title="MULTIDEPORTES",BEIN SPORTS La liga max 3
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8053
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS La liga max 4" tvg-logo="http://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/5312/20/BEIN-MAX-LaLiga-4.png" group-title="MULTIDEPORTES",BEIN SPORTS La liga max 4
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8069
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS La liga max 5" tvg-logo="" group-title="MULTIDEPORTES",BEIN SPORTS La liga max 5
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8068
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS La liga max 6" tvg-logo="" group-title="MULTIDEPORTES",BEIN SPORTS La liga max 6
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8067
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS La liga max 7" tvg-logo="https://www.tododream.com/foro/cache.php?img=https%3A%2F%2Fraw.githubusercontent.com%2FLinuxZoneTv%2FPicon_Movistar%2F5cacbec74840550cccae22c684075986dcf9d93a%2F1_0_1_756E_412_1_C00000_0_0_0.png" group-title="MULTIDEPORTES",BEIN SPORTS La liga max 7
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8066
+#EXTINF:-1 tvg-ID="" tvg-name="Multideporte pantalla" tvg-logo="http://www.plus.es/estaticos/images/canales/svg/multideporte-01.svg" group-title="MULTIDEPORTES",Multideporte pantalla
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8092
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 1 HD 1080" tvg-logo="" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 1 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32048
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 1 720P" tvg-logo="" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 1 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32052
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 1 SD" tvg-logo="" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 1 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8087
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 2 HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 2 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32049
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 2 720P" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 2 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32053
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 2 SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 2 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8086
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 3 HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 3 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32050
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 3 720P" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 3 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32054
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 3 SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 3 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8085
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 4 HD 1080" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 4 HD 1080
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32051
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 4 720P" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 4 720P
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32055
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 4 SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 4 SD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8094
+#EXTINF:-1 tvg-ID="" tvg-name="Multifutbol 1" tvg-logo="http://meteoalcorcon.es/1_0_1_76A7_41E_1_C00000_0_0_0.png" group-title="MULTIDEPORTES",Multifutbol 1
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8091
+#EXTINF:-1 tvg-ID="" tvg-name="Multifutbol 2" tvg-logo="http://www.mundoplus.tv/img/05c640277050c43b8a51813b460fa520" group-title="MULTIDEPORTES",Multifutbol 2
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8090
+#EXTINF:-1 tvg-ID="" tvg-name="Multifutbol 3" tvg-logo="http://www.mundoplus.tv/img/54b2a849c46d46f63dd965762e09a0d7" group-title="MULTIDEPORTES",Multifutbol 3
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8089
+#EXTINF:-1 tvg-ID="" tvg-name="Multifutbol 4" tvg-logo="http://www.mundoplus.tv/img/77e856a6a5a878d5c19ed647628958c4" group-title="MULTIDEPORTES",Multifutbol 4
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8088
+#EXTINF:-1 tvg-ID="" tvg-name="Multifutbol 5" tvg-logo="http://www.goalzz.com/images/logo_sport/multifutbol5.jpg" group-title="MULTIDEPORTES",Multifutbol 5
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/8084
+#EXTINF:-1 tvg-ID="" tvg-name="1 Music.HU" tvg-logo="" group-title="MUSICALES",1 Music.HU
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12745
+#EXTINF:-1 tvg-ID="TQ1 ASTRA SD 1.sp" tvg-name="Alquiler 1" tvg-logo="http://xtremservices.com:8000/images/1C30gYq4RWpaCruweKVHX934hXa_small.jpg" group-title="ESPAÑA",Alquiler 1
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32164
+#EXTINF:-1 tvg-ID="TQ2 ASTRA SD 1.sp" tvg-name="Alquiler 2" tvg-logo="http://xtremservices.com:8000/images/wEYMAYZjNe8XEZIKqAImbzjKqUY_small.jpg" group-title="ESPAÑA",Alquiler 2
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32165
+#EXTINF:-1 tvg-ID="TQ3 ASTRA SD 1.sp" tvg-name="Alquiler 3 (Con amor simon)" tvg-logo="http://xtremservices.com:8000/images/1GsJRXXMh4lvdZPCMFLU2sGu0id_small.jpg" group-title="ESPAÑA",Alquiler 3 (Con amor simon)
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32166
+#EXTINF:-1 tvg-ID="TQ4 ASTRA SD 1.sp" tvg-name="Alquiler 4 (Los 50 son los nuevos 30)" tvg-logo="http://xtremservices.com:8000/images/zZWYdILpCUPJGNhgB43nq85bf49_small.jpg" group-title="ESPAÑA",Alquiler 4 (Los 50 son los nuevos 30)
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32167
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 5 (Algo celosa)" tvg-logo="http://xtremservices.com:8000/images/kvlTZl0F76KQtNimIpBzrf8TtGR_small.jpg" group-title="ESPAÑA",Alquiler 5 (Algo celosa)
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32168
+#EXTINF:-1 tvg-ID="TQ6 ASTRA SD 1.sp" tvg-name="Alquiler 6 (Disobedience)" tvg-logo="http://xtremservices.com:8000/images/IwFugPaYFhJOAkPVFG3I3xR6wA_small.jpg" group-title="ESPAÑA",Alquiler 6 (Disobedience)
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32169
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 7 (Jurassic World 2)" tvg-logo="http://xtremservices.com:8000/images/zeNCIgB4cfAN7dKRsCuDeLIgrYy_small.jpg" group-title="ESPAÑA",Alquiler 7 (Jurassic World 2)
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32175
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 1 4K (Deadpool 2 VE)" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="ESPAÑA",Alquiler 1 4K (Deadpool 2 VE)
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32184
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 2 4K (Guard. Galax.2)" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="ESPAÑA",Alquiler 2 4K (Guard. Galax.2)
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32185
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 3 4K (Ready player one)" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="ESPAÑA",Alquiler 3 4K (Ready player one)
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/32186
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 4 4K (Vengadores Inf War)" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="ESPAÑA",Alquiler 4 4K (Vengadores Inf War)
+http://xtremservices.com:8000/movie/paralaspeliculas/E69WwWWfog/32183.avi
+#EXTINF:-1 tvg-ID="" tvg-name="538.TV" tvg-logo="" group-title="MUSICALES",538.TV
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12746
+#EXTINF:-1 tvg-ID="" tvg-name="Classica HD" tvg-logo="" group-title="MUSICALES",Classica HD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12747
+#EXTINF:-1 tvg-ID="" tvg-name="de Deluxe Music" tvg-logo="" group-title="MUSICALES",de Deluxe Music
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12748
+#EXTINF:-1 tvg-ID="" tvg-name="Dream Music" tvg-logo="" group-title="MUSICALES",Dream Music
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12749
+#EXTINF:-1 tvg-ID="" tvg-name="DXTV" tvg-logo="" group-title="MUSICALES",DXTV
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12750
+#EXTINF:-1 tvg-ID="" tvg-name="Europa Music HD" tvg-logo="" group-title="MUSICALES",Europa Music HD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12751
+#EXTINF:-1 tvg-ID="" tvg-name="Fibwi TV HD" tvg-logo="" group-title="MUSICALES",Fibwi TV HD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12752
+#EXTINF:-1 tvg-ID="" tvg-name="FR M6" tvg-logo="" group-title="MUSICALES",FR M6
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12762
+#EXTINF:-1 tvg-ID="" tvg-name="Heart TV UK" tvg-logo="" group-title="MUSICALES",Heart TV UK
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12753
+#EXTINF:-1 tvg-ID="" tvg-name="Hit Music Channel" tvg-logo="" group-title="MUSICALES",Hit Music Channel
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12754
+#EXTINF:-1 tvg-ID="" tvg-name="HIT TV" tvg-logo="" group-title="MUSICALES",HIT TV
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12755
+#EXTINF:-1 tvg-ID="" tvg-name="Melody Channel" tvg-logo="" group-title="MUSICALES",Melody Channel
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12756
+#EXTINF:-1 tvg-ID="" tvg-name="Miami TV Espa?a" tvg-logo="" group-title="MUSICALES",Miami TV Espa?a
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12757
+#EXTINF:-1 tvg-ID="" tvg-name="MTV DANCE" tvg-logo="" group-title="MUSICALES",MTV DANCE
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12758
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Hits" tvg-logo="" group-title="MUSICALES",MTV Hits
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12759
+#EXTINF:-1 tvg-ID="" tvg-name="Mtv Live" tvg-logo="" group-title="MUSICALES",Mtv Live
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12761
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Live HD" tvg-logo="" group-title="MUSICALES",MTV Live HD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12763
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Music 24" tvg-logo="" group-title="MUSICALES",MTV Music 24
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12764
+#EXTINF:-1 tvg-ID="" tvg-name="MTV ROCKS" tvg-logo="" group-title="MUSICALES",MTV ROCKS
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12765
+#EXTINF:-1 tvg-ID="" tvg-name="Music Box UA HD" tvg-logo="" group-title="MUSICALES",Music Box UA HD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12766
+#EXTINF:-1 tvg-ID="" tvg-name="Music Choice Play" tvg-logo="" group-title="MUSICALES",Music Choice Play
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12767
+#EXTINF:-1 tvg-ID="" tvg-name="Music Top" tvg-logo="" group-title="MUSICALES",Music Top
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12768
+#EXTINF:-1 tvg-ID="" tvg-name="Music Vox old's Cool Tv" tvg-logo="" group-title="MUSICALES",Music Vox old's Cool Tv
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12769
+#EXTINF:-1 tvg-ID="" tvg-name="Music Vox TV" tvg-logo="" group-title="MUSICALES",Music Vox TV
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12770
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ Hits Tv" tvg-logo="" group-title="MUSICALES",NRJ Hits Tv
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12771
+#EXTINF:-1 tvg-ID="" tvg-name="One Music HD" tvg-logo="" group-title="MUSICALES",One Music HD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12772
+#EXTINF:-1 tvg-ID="" tvg-name="One Music Rus HD" tvg-logo="" group-title="MUSICALES",One Music Rus HD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12773
+#EXTINF:-1 tvg-ID="" tvg-name="One Music UHD" tvg-logo="" group-title="MUSICALES",One Music UHD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12774
+#EXTINF:-1 tvg-ID="" tvg-name="One TV" tvg-logo="" group-title="MUSICALES",One TV
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12775
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Music HD" tvg-logo="" group-title="MUSICALES",Polsat Music HD
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12783
+#EXTINF:-1 tvg-ID="" tvg-name="Retro TV" tvg-logo="" group-title="MUSICALES",Retro TV
+http://xtremservices.com:8000/nomen/uXgwZYpWUl/12776
